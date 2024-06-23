@@ -30,7 +30,7 @@ This project provides a simple image encryption tool that uses pixel manipulatio
 
 1. **Encrypt an Image:**
     ```bash
-    
+    ![](images/_encrypted.jpg)
 
     python encrypt_decrypt.py
     ```
