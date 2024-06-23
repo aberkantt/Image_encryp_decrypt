@@ -30,7 +30,7 @@ This project provides a simple image encryption tool that uses pixel manipulatio
 
 1. **Encrypt an Image:**
     ```bash
-    ![WhatsApp Görsel 2024-06-23 saat 14 07 04_7f1063a6](https://github.com/aberkantt/Image_encryp_decrypt/assets/85020893/906d67c9-7ab8-4719-9e9f-c2de444b6219)
+    
 
     python encrypt_decrypt.py
     ```
